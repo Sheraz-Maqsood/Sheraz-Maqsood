@@ -1,3 +1,28 @@
+
+<div align='center'>
+<h1><b>Hi , I'm Sheraz Maqsood </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+	  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I+am+a+Full+Stack+Web+Developer+having+Experties+in+Laravel+Coginiter+PHP+HTML5+CSS3+Blade-Templating+Vuejs+Window-form+Electron+SQL-Server-Express+MYSQL+SQLite,;Active+Learner/Researcher,;I+Love+to+learn+new+coding+stuff..<3"></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
 👋 Greetings! I'm Sheraz Maqsood.
 
 🌟 Passionate about the art of web development, I embark on digital journeys to craft seamless online experiences. With a deep love for elegant code and pixel-perfect designs, I breathe life into the virtual realm.
@@ -24,29 +49,10 @@
 
 #WebDeveloper #CodeArtist #InnovationEnthusiast #PixelPerfectionist
 
-<h1 align="center"><b>Hi , I'm Sheraz Maqsood </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I+am+a+Full+Stack+Web+Developer+having+Experties+in+Laravel+Coginiter+PHP+HTML5+CSS3+Blade-Templating+Vuejs+Window-form+Electron+SQL-Server-Express+MYSQL+SQLite,;Active+Learner/Researcher,;I+Love+to+learn+new+coding+stuff..<3"></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Self-taught backend developer
+- Currently working as a Web Developer
+- Personal website [link](https://www.itsansoft.com)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/sherazmaqsood)
 
 <br><br>
 
@@ -137,11 +143,7 @@
 <br>
 <br>
 
-<div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <br>
 <br>
 <br>
