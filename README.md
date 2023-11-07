@@ -8,12 +8,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-	  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I+am+a+Full+Stack+Web+Developer+having+Experties+in+Laravel+Coginiter+PHP+HTML5+CSS3+Blade-Templating+Vuejs+Window-form+Electron+SQL-Server-Express+MYSQL+SQLite,;Active+Learner/Researcher,;I+Love+to+learn+new+coding+stuff..<3"></a>
+	  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I+am+a+Full+Stack+Web+Developer...,;..having+Experties+in+Laravel+Coginiter+PHP+HTML5+CSS3,;Blade+Vuejs+Window-Forms+Electron+SQL-Server+MYSQL+SQLite,;Active+Learner/Researcher,;I+Love+to+learn+new+coding+stuff..<3"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
-
 
 
 	
@@ -104,11 +103,8 @@
 </p>
 
 <br>
-<br>
 
 -----
-
-<br>
 
 <br>
 <br>
@@ -140,15 +136,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
-
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 <br>
