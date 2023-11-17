@@ -65,9 +65,9 @@
 
 - A passionate Self-taught backend developer
 - Currently working as a Web Developer
-- Personal website [link](https://www.itsansoft.com)
+<!--- Personal website [link](https://www.itsansoft.com)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/sherazmaqsood)
-
+-->
 
 
 <br>
@@ -80,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=laravel,mysql,nodejs,php,vue,wordpress,git,aws,postgres,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,arduino,atom,codepen,dotnet,qt,raspberrypi,redis,regex,sqlite,stackoverflow,visualstudio,electron,linux,md,materialui,mongodb,mysql,nextjs,nodejs,androidstudio,postman,react,redux,ts,vscode&perline=14" />
   </a>
 </p>
 <br>
