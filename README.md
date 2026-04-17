@@ -16,7 +16,7 @@
 ## <b>📄 My Resume / CV</b>
 
 <p align="center">
-  <a href="./assets/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" target="_blank">
+  <a href="./assets/" target="_blank">
     <img src="./assets/image.png" alt="Sheraz Maqsood CV Preview" width="300" />
   </a>
 </p>
