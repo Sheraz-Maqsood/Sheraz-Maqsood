@@ -11,7 +11,23 @@
 	  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I+am+a+Full+Stack+Web+Developer...;My+Experties+:+Laravel+Coginiter+PHP+VUE;Blade+Win-Forms+Electron+SQL+MYSQL+SQLite;I+Love+to+learn+new+coding+stuff..<3"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
 
+## <b>📄 My Resume / CV</b>
+
+<p align="center">
+  <a href="./assets/cv/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="./assets/cv/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" target="_blank">
+    <img src="./assets/cv/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" alt="Sheraz Maqsood CV Preview" width="800" />
+  </a>
+</p>
+
+<br>
 <br>
 <!--- snake -->
 <div align="center">
