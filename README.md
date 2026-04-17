@@ -16,14 +16,14 @@
 ## <b>📄 My Resume / CV</b>
 
 <p align="center">
-  <a href="./assets/cv/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="./assets/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" target="_blank">
+    <img src="./assets/image.png" />
   </a>
 </p>
 
 <p align="center">
-  <a href="./assets/cv/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" target="_blank">
-    <img src="./assets/cv/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" alt="Sheraz Maqsood CV Preview" width="800" />
+  <a href="./assets/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" target="_blank">
+    <img src="./assets/image.png" alt="Sheraz Maqsood CV Preview" width="800" />
   </a>
 </p>
 
