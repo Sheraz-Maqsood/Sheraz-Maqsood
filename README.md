@@ -17,13 +17,7 @@
 
 <p align="center">
   <a href="./assets/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" target="_blank">
-    <img src="./assets/image.png" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="./assets/Sheraz%20CV%20-%20Curriculum%20vitae%2018-01-2026%20.pdf" target="_blank">
-    <img src="./assets/image.png" alt="Sheraz Maqsood CV Preview" width="800" />
+    <img src="./assets/image.png" alt="Sheraz Maqsood CV Preview" width="300" />
   </a>
 </p>
 
