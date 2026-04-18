@@ -16,7 +16,7 @@
 ## <b>📄 My Resume / CV</b>
 
 <p align="center">
-  <a href="./assets/" target="_blank">
+  <a href="https://drive.google.com/file/d/1fwaa4ohpXRND9z3fhoGPAx4cMsEnPQS1/view?usp=sharing" target="_blank">
     <img src="./assets/image.png" alt="Sheraz Maqsood CV Preview" width="300" />
   </a>
 </p>
